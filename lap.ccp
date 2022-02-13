@@ -44,6 +44,8 @@ namespace drem1
                     i++;
                 } while (i < 4);
 
+                 Console.WriteLine(" finsh");
+
             }
 
              
